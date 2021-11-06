@@ -75,7 +75,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mahdisharafi?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mahdish8/)
-- 🎷 &nbsp; When I am free, I like to play the Sax
+- 🎷 &nbsp; When I am free, I like to play the game
 - 📝 &nbsp; Checkout my [Page](https://github.com/site/) 
 
 <br><br><br>
@@ -120,14 +120,31 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ## 📊 Github stats
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsDvm&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Projects section -->
 
@@ -167,6 +184,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 Last refresh: <b>Friday, November 5, 7:14 AM GMT-5</b>
 
 <!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mahdi sharafi/m.sh.p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
