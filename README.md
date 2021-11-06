@@ -47,7 +47,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Bogota's weather table -->
 
-<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
+<h2 align="center"> kish Weather ⛅ </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
@@ -58,7 +58,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     </tr>
     <tr style="text-align:center">
         <td><b>fog</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;50d.png></td>
-        <td><b>10°C</b></td>
+        <td><b>35°C</b></td>
         <td><b>05:41 AM</b></td>
         <td><b>05:38 PM</b></td>
         <td><b>100%</b></td>
